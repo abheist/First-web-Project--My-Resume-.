@@ -1,0 +1,217 @@
+body {
+	margin: 0px;
+	color:#6a6969;
+	font-family: calibri;
+}
+
+/********************************************/
+/*************HEADER SECTION**************/
+/********************************************/
+
+#addressi {
+	text-align: center;
+	margin-right: 450px;
+	margin-top: 50px;
+}
+
+#heading {
+	font-size: 200%;
+	font-weight: bold;
+}
+
+#picprofile {
+	float: left;
+	border-radius: 100px;
+	margin-right: 145px;
+	margin-left: 120px;
+	margin-top: 8px;
+}
+
+#header {
+	background: url(images/coverpic.jpg);
+	background-size: cover;
+	background-position: center;
+	color: white;
+	width: 1366px;
+	height: 175px;
+	position: fixed;
+}
+
+a {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+	font-weight: bold;
+}
+
+/********************************************/
+/*************OBJECTIVE SECTION**************/
+/********************************************/
+
+#objective {
+	padding-top: 92px;
+	padding-left: 120px;
+	padding-bottom: 54px;
+	background: url(images/objectivepic.jpg);
+	color: white;
+	margin-bottom: 0px;
+}
+
+#objective #objectiveheading {
+	font-size: 35px;
+	margin-bottom: 0px;
+	color: rgba(100%,100%,100%,0.5);
+}
+
+#objective #objectivedata {
+	font-size: 20px;
+	margin-top: 0px;
+	margin-right: 100px;
+	background: black;
+	background-color: rgba(0,0,0,0.5);
+	color: rgba(100%,100%,100%,0.5);
+	border-radius: 20px;
+	padding-top: 10px;
+	padding-left: 30px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	margin-bottom: 0px;
+}
+
+/********************************************/
+/*************FIVE DIVISIONS**************/
+/********************************************/
+
+#yabhiss {
+	margin-top: 0px;
+	color: rgba(100%, 100%, 100%, 0.5);
+}
+
+#yas1 {
+	padding-top: 100px;
+	height: 149px;
+	margin: 0px;
+	text-align: center;
+	width: 20%;
+	float: left;
+	background: url(images/technicalskills1.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#yas2 {
+	padding-top: 100px;
+	height: 149px;
+	margin: 0px;
+	text-align: center;
+	width: 20%;
+	float: left;
+	background: url(images/solid1.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#yas3 {
+	padding-top: 100px;
+	height: 149px;
+	margin: 0px;
+	text-align: center;
+	width: 20%;
+	float: left;
+	background: url(images/education1.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#yas4 {
+	padding-top: 100px;
+	height: 149px;
+	margin: 0px;
+	text-align: center;
+	width: 20%;
+	float: left;
+	background: url(images/course1.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#yas5 {
+	padding-top: 100px;
+	height: 149px;
+	margin: 0px;
+	text-align: center;
+	width: 20%;
+	float: left;
+	background: url(images/additional1.jpg);
+	background-size: cover;
+	background-position: center;
+	margin-bottom: 50px;
+}
+
+#yas11 {
+	font-size: 35px;
+	color: white;
+	background-color: rgba(0,0,0,0.5);
+}
+
+#yas22 {
+	font-size: 35px;
+	color: white;
+	background-color: rgba(0,0,0,0.5);
+}
+
+#yas33 {
+	font-size: 35px;
+	color: white;
+	background-color: rgba(0,0,0,0.5);
+}
+
+#yas44 {
+	font-size: 35px;
+	color: white;
+	background-color: rgba(0,0,0,0.5);
+}
+
+#yas55 {
+	padding-top: 21px;
+	padding-bottom: 21px;
+	font-size: 35px;
+	color: white;
+	background-color: rgba(0,0,0,0.5);
+}
+
+/********************************************/
+/*************DETAILS SECTION**************/
+/********************************************/
+
+#details {
+	float: none;
+	padding-left: 120px;
+	padding-bottom: 15px;
+	background: url(images/objectivepic.jpg);
+	background-size: cover;
+	color: white;
+}
+
+#detailsheading {
+	font-size: 35px;
+	margin-bottom: 0px;
+	color: rgba(100%,100%,100%,0.5);
+}
+
+#detailsdata {
+	font-size: 20px;
+	margin-right: 100px;
+	background: black;
+	background-color: rgba(0,0,0,0.5);
+	color: rgba(100%,100%,100%,0.5);
+	border-radius: 20px;
+	padding-top: 10px;
+	padding-left: 30px;
+	padding-bottom: 10px;
+	margin-top: 0px;
+}
